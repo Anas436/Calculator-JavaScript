@@ -1,1 +1,1 @@
-# coding-project-template
+# Calculator-JavaScript
